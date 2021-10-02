@@ -1,0 +1,27 @@
+from graphics import *
+def main():
+    win = GraphWin("keji face", 500,500)
+    head = Oval(Point(300, 150), Point(200,400))
+    head.setFill("brown")
+    head.draw(win)
+    eyes = Circle(Point(230,250), 10)
+    eyes.setOutline("black")
+    eyes.setFill("black")
+    eyes.draw(win)
+    eyes2 = Circle(Point(280,250), 10)
+    eyes2.setFill("black")
+    eyes2.setOutline("black")
+    eyes2.draw(win)
+    head = Oval(Point(300, 150), Point(200,400))
+    mouth = Oval(Point(230, 350), Point(280,330))
+    mouth.draw(win) 
+    mouth.setFill("black")
+    mouth.setOutline("brown")
+    head.setFill("brown")
+    nose = Rectangle(Point(245, 280), Point(255,290))
+    nose2 = Rectangle(Point(255, 280), Point(265,290))
+    nose2.draw(win)
+    nose.draw(win)
+    
+
+main()

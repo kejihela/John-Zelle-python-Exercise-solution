@@ -1,0 +1,4 @@
+(1.5, 'adepoju,mubarak')
+(2.5, 'shamba,kazeem')
+(6.0, 'afiene,vincent')
+(50.0, 'keji,adebayo')

@@ -1,0 +1,4 @@
+keji,adebayo	2	100
+shamba,kazeem	4	10
+afiene,vincent	5	30
+adepoju,mubarak	2	3

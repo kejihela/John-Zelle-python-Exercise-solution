@@ -1,0 +1,19 @@
+[98, 'shamba']
+
+[95, 'sunks']
+
+[100, 'olamilekan']
+
+[100, 'junior']
+
+[100, 'afiene']
+
+[100, 'mubby']
+
+[100, 'kazeem']
+
+[100, 'keji']
+
+[90, 'taofeeq']
+
+[90, 'faheema']

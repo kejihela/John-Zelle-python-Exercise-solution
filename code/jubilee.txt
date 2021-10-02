@@ -1,0 +1,8 @@
+I'm an M.sc student in computer science currently working on a computer vision project in area of fishries. 
+it is well known today that most fish farmings businesses are greatly affected by some underlying diseases 
+which can cause great disasters to the farming business. in fisheries " An injury to one is an injury to all". 
+if this underlying diseases are not detected on time so as to take the proper precautionary measures it can result to massive 
+lost to ones farm. thus, the introduction of deep neural network in fish farming can leads to a significant increase in 
+fish farming production where diseases can be uncovered in no time and proper cautions are taken in other to curb any damages
+that could be incured from the disease. if I'm able to get this funding i will direct it towards the application of 
+of technology towards my fish farming business to increase productivity and security of work.
